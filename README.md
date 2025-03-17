@@ -3,14 +3,14 @@
     <h1> Hi there, I'm Ali Nadeem👋<a href="#"></h1>
   </div>
 <p align="center">
-<a href="https://github.com/Muhammad-Daniyal-1"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;MERN+Stack+Developer;Javascript+Developer;Frontend+Developer;ReactJs+Developer;NodeJs+Developer;React+Native+Developer&center=true&width=500&height=50"></a>
+<a href="https://github.com/AliNadeem5050"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;MERN+Stack+Developer;Javascript+Developer;Frontend+Developer;ReactJs+Developer;NodeJs+Developer;React+Native+Developer;Shopify+Expert;WordPress+Developer&center=true&width=500&height=50"></a>
 
-### I'm a MERN Stack Developer and Researcher!
-- 🌱 I’m currently expanding my knowledge in Nextjs.
-- 👯 I’m looking to collaborate with other content creators and developers.
-- 📢 Love to teach and inspire students.
+### I'm a MERN Stack Developer, Shopify Expert, and WordPress Developer!
+- 🌱 I’m currently expanding my knowledge in Next.js and Liquid (Shopify's templating language).
+- 👯 I’m looking to collaborate with other content creators, developers, and e-commerce enthusiasts.
+- 📢 Passionate about building scalable e-commerce solutions using Shopify and WooCommerce.
 - 🥅 2025 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
-- 💎 If you are a Tech person let's get connected  
+- 💎 If you are a Tech person or an e-commerce enthusiast, let's get connected! 
 
 <h2>Tech Stack</h2>
 
@@ -79,6 +79,9 @@
     <td align='center' width="200">
        <img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg"  width="90">
     </td>
+    <td align='center' width="200">
+       <img src="https://cdn.worldvectorlogo.com/logos/shopify.svg"  width="90">
+    </td>
 </tr>
     
 </table>
@@ -88,4 +91,7 @@
  
 |Stats |Streak |Languages |
 |---|---|---|
-|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muhammad-Daniyal-1&theme=gruvbox)|[![GitHub Streak](https://streak-stats.demolab.com/?user=Muhammad-Daniyal-1&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://git.io/streak-stats)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muhammad-Daniyal-1&theme=gruvbox)
+|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AliNadeem5050&theme=gruvbox)|[![GitHub Streak](https://streak-stats.demolab.com/?user=AliNadeem5050&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://git.io/streak-stats)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AliNadeem5050&theme=gruvbox)
+
+### 🌍 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-nadeem-680176255/)  [![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AliNadeem5050)
